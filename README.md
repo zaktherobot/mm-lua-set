@@ -1,2 +1,2 @@
-# mm-lua-set
-For use with the OpenKH mod manager. Uses all lua files when using LuaBackend configured to point to openkh/mod/scripts
+# ModManager Zip Maker from Lua File
+For use with the OpenKH mod manager. Drag and drop a Lua file onto the maker, and it'll make an OpenKH zip mod for use with LuaBackend. 
